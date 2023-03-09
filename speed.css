@@ -8,9 +8,7 @@ body{
     flex-wrap: wrap;
     position: relative
 }    
-   
-
-.task-bar{
+   .task-bar{
     background: rgba(255, 255, 255, 0.354);
     display: flex;
     flex-direction: column;
