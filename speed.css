@@ -25,7 +25,7 @@ body{
 
 }
 .logos{
-    width: 26px;
+    width: 30px;
     height: 30px;
     transition: all .3s;
    
@@ -145,7 +145,7 @@ i:hover{
 }
 .siteweb{
     width: 16vw;
-    height: 22.3vh;
+    height: 25vh;
     width: 100%;
     border-radius: 10px;
     object-fit: cover;
@@ -164,11 +164,10 @@ i:hover{
     
 }
 .siteweb img{
-    width: 94%;
-    height:100%;
+    width: 100%;
+    /* height:100%; */
     object-fit: cover;
-    border-radius: 10px;
-    
+    border-radius: 10px;   
 }
 footer{
     background: url(./BGROUND.jpg);
@@ -189,7 +188,7 @@ footer{
     width: 25px;
     position: absolute;
     left: 36.5%;
-    top:15.5%;
+    top:16%;
     transition: all .3s;
     opacity: 70%;
     z-index: 1;
